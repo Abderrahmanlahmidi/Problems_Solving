@@ -1,8 +1,5 @@
 # 🧮 Solved Problems:
 
-This repository contains solutions for two popular algorithmic problems: **"Two Sum"** and **"Best Time to Buy and Sell Stock"**. These challenges help in understanding array manipulation, optimizing logic, and improving problem-solving skills.
-
----
 
 ## 📌 **Problem 1: Two Sum**
 
@@ -51,17 +48,6 @@ Given an array `prices` where `prices[i]` is the price of a stock on the `i`th d
    git clone https://github.com/your-username/solved-problems.git
    cd solved-problems
    ```
-
-2. Open the respective solution files:
-   - **Two Sum:** `twoSum.js`
-   - **Best Time to Buy and Sell Stock:** `maxProfit.js`
-
-3. Run the solutions:
-   ```bash
-   node twoSum.js
-   node maxProfit.js
-   ```
-
 ---
 
 ## 🌟 **Learning Objectives**
